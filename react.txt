@@ -1,0 +1,7 @@
+O que é reactJS?
+
+- É uma biblioteca de JavaScript
+- Utilizada para criar interfaces de utilizador (UI)
+- Pode ser usado para criar SPA (pacotes extra)
+- Baseado numa filosofia de layout por componentes
+- Permite criar aplicações mobile React Native
